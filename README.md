@@ -1,3 +1,4 @@
 # Profiling and Analyzing the Yelp Dataset
-<img width="351" alt="image" src="https://github.com/rogue1812/Profiling-and-Analyzing-the-Yelp-Dataset/assets/83130519/138e17c1-d6ed-4adb-82d7-6d2aa7908b17">
+<img width="497" alt="image" src="https://github.com/rogue1812/Profiling-and-Analyzing-the-Yelp-Dataset/assets/83130519/ff491e29-cfcf-42aa-9848-f8527473d26c">
+
 
